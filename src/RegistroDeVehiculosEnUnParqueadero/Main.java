@@ -53,6 +53,7 @@ public class Main {
             
             moto1.mostrarInfo();
             System.out.println(" La tarifa de la moto es: " + tiquete2.CalcularValor());
+            System.out.println("eso es todo");
         }
         
         sc.close();
